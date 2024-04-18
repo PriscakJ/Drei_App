@@ -15,6 +15,7 @@ Best Regards
 Juraj Priscak
 
 PS: You can run the app from the terminal using the following steps:
+
 	python3 -m venv venv
 	source venv/bin/activate
 	python3 -m pip install --upgrade pip
